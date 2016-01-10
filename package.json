@@ -1,0 +1,18 @@
+{
+  "name": "docker-graphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docker-stats": "^0.5.0",
+    "node-docker-log-monitor": "^1.0.3",
+    "node-docker-monitor": "^1.0.3",
+    "through2": "^2.0.0",
+    "turtle-race": "^0.4.0"
+  }
+}
